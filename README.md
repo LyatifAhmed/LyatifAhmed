@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Data engineering...
+- - 🌱 I’m currently learning Python...
 
 <!--
 **LyatifAhmed/LyatifAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
