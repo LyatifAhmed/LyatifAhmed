@@ -36,7 +36,7 @@ Hi there! 👋 I'm **Lyatif Redzheb**, a passionate Data Engineer who loves turn
 ## 📫 Contact Me
 Feel free to connect with me for collaboration or opportunities!
 - **Email**: [latifmutlu@gmail.com](mailto:latifmutlu@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/lyatif-ahmed-redzheb)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lyatif-ahmed-redzheb)
 - **GitHub**: [GitHub Profile](https://github.com/LyatifAhmed)
 
 ---
