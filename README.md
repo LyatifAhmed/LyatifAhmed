@@ -16,12 +16,12 @@ Hi there! 👋 I'm **Lyatif Redzheb**, a passionate Data Engineer who loves turn
 ### 1. **AWS Data Engineering Pipeline**
 - **Description**: End-to-end AWS pipeline built to process and analyze large datasets.
 - **Technologies Used**: AWS S3, Kinesis, MSK, Databricks, Spark
-- **Link to Project**: [AWS Data Engineering Pipeline](link_to_repository)
+- **Link to Project**: [AWS Data Engineering Pipeline](https://github.com/LyatifAhmed/pinterest-data-pipeline313.git)
 
 ### 2. **Multinational Data Centralisation Pipeline**
 - **Description**: A project that centralized over 120,000 rows of sales data from multiple sources, improving query performance and reporting speed.
 - **Technologies Used**: PostgreSQL, Python, SQL, Airflow
-- **Link to Project**: [Multinational Data Centralisation Pipeline](link_to_repository)
+- **Link to Project**: [Multinational Data Centralisation Pipeline](https://github.com/LyatifAhmed/multinational-retail-data-centralisation276.git)
 
 ---
 
@@ -36,8 +36,8 @@ Hi there! 👋 I'm **Lyatif Redzheb**, a passionate Data Engineer who loves turn
 ## 📫 Contact Me
 Feel free to connect with me for collaboration or opportunities!
 - **Email**: [latifmutlu@gmail.com](mailto:latifmutlu@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](link_to_linkedin)
-- **GitHub**: [GitHub Profile](link_to_github_profile)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/lyatif-ahmed-redzheb)
+- **GitHub**: [GitHub Profile](https://github.com/LyatifAhmed)
 
 ---
 
