@@ -1,15 +1,52 @@
-<h1 align="center">Hi 👋, I'm Lyatif Ahmed Redzheb</h1>
-<h3 align="center">A passionate Data Engineer from London-UK</h3>
+# Welcome to My GitHub Portfolio! 🎉
 
-- 📫 How to reach me **latifmutlu@gmail.com**
+Hi there! 👋 I'm **Lyatif Redzheb**, a passionate Data Engineer who loves turning raw data into actionable insights using modern tools and technologies. This repository serves as a collection of my data engineering projects, showcasing my skills and work across different areas in the data world.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lyatif-ahmed-redzheb-3aa099b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyatif-ahmed-redzheb-3aa099b8" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- **Current Focus**: I recently completed a Data Engineering Bootcamp at AiCore, where I developed hands-on experience building data pipelines and working with cloud technologies like AWS, Databricks, and Spark.
+- **Skills**: Python, SQL, AWS, Kafka, Spark, Databricks, Airflow, Real-time Data Processing
+- **Looking for**: Data Engineering internships or junior roles where I can contribute my skills and grow in the field.
+
+---
+
+## 📂 Projects
+
+### 1. **AWS Data Engineering Pipeline**
+- **Description**: End-to-end AWS pipeline built to process and analyze large datasets.
+- **Technologies Used**: AWS S3, Kinesis, MSK, Databricks, Spark
+- **Link to Project**: [AWS Data Engineering Pipeline](link_to_repository)
+
+### 2. **Multinational Data Centralisation Pipeline**
+- **Description**: A project that centralized over 120,000 rows of sales data from multiple sources, improving query performance and reporting speed.
+- **Technologies Used**: PostgreSQL, Python, SQL, Airflow
+- **Link to Project**: [Multinational Data Centralisation Pipeline](link_to_repository)
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages**: Python, SQL, Java
+- **Cloud & Big Data**: AWS (S3, Kinesis, MSK), Spark, Databricks
+- **Data Pipelines**: Kafka, Airflow, PostgreSQL
+- **Version Control**: Git, GitHub
+
+---
+
+## 📫 Contact Me
+Feel free to connect with me for collaboration or opportunities!
+- **Email**: [latifmutlu@gmail.com](mailto:latifmutlu@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](link_to_linkedin)
+- **GitHub**: [GitHub Profile](link_to_github_profile)
+
+---
+
+## 🤝 Contributing
+I welcome feedback, suggestions, and collaboration on any of my projects. If you'd like to contribute, feel free to open an issue or submit a pull request.
+
+---
+
+
 
 
 
